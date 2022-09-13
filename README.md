@@ -1,6 +1,6 @@
 # The Side Projects which can convert into the Real world Applications for the public domain uses
 
-## README about the Infrastructure for creating the side projects
+## README about the Infrastructure of REDWOODJS for creating the side projects into a full growing application for the public domain startup
 
 Welcome to [RedwoodJS](https://redwoodjs.com)!
 
